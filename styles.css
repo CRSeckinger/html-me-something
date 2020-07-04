@@ -1,0 +1,59 @@
+body {
+    background-color: lightblue;
+}
+
+.heading {
+    text-align: center;
+    font-size: 80px;
+    color: indigo;
+} 
+
+.subheading {
+    text-align: center;
+    color: navy;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#heading-color {
+    color: maroon;
+    font-size: 50px;
+    font-family: "Georgia", Georgia, serif;
+}
+
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: "Georgia", Georgia, serif;
+    color: navy;
+}
+
+ul {
+    color: navy;
+    font-size: 20px;
+    font-family: "Georgia", Georgia, serif;
+}
+
+ol {
+    color: navy;
+    font-size: 20px;
+    font-family: "Georgia", Georgia, serif;
+}
+
+footer {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 20px;
+        margin-left: 20px;
+        color: navy;
+        font-size: 20px;
+        font-family: "Georgia", Georgia, serif;
+}
